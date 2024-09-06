@@ -1,6 +1,5 @@
-Aqui estão as três tabelas organizadas conforme solicitado:
 
-## Orçamento de PC Gamer com Intel
+## Orçamento de PC com Intel
 
 | Componente              | Detalhes                                      | Loja     | Preço à Vista (R$) | Preço Parcelado (R$) | Link                                                                                          |
 |-------------------------|-----------------------------------------------|----------|---------------------|----------------------|-----------------------------------------------------------------------------------------------|
@@ -24,7 +23,7 @@ Aqui estão as três tabelas organizadas conforme solicitado:
 
 ---
 
-## Orçamento de PC Gamer com Ryzen
+## Orçamento de PC com Ryzen
 
 | Componente              | Detalhes                                      | Loja     | Preço à Vista (R$) | Preço Parcelado (R$) | Link                                                                                          |
 |-------------------------|-----------------------------------------------|----------|---------------------|----------------------|-----------------------------------------------------------------------------------------------|
@@ -48,7 +47,7 @@ Aqui estão as três tabelas organizadas conforme solicitado:
 
 ---
 
-## Orçamento de PC Usado
+## Orçamento meu SETUP formatado, e com o Windows reinstalado
 
 | Componente              | Detalhes                                      | Loja     | Preço à Vista (R$) | Preço Parcelado (R$) | Link |
 |-------------------------|-----------------------------------------------|----------|---------------------|----------------------|------|
@@ -66,6 +65,4 @@ Aqui estão as três tabelas organizadas conforme solicitado:
 
 ### Total do PC Usado
 
-- **Preço do PC Usado:** R$ 5.000,00
-
-Se precisar de mais alguma alteração ou adicionar algo, é só me avisar!
+- **Preço do Setup 5000:** R$ 5.000,00
