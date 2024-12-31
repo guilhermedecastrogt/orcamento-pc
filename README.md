@@ -13,8 +13,8 @@
 
 ### Totais:
 
-- **Preço à vista (sem a RX 5700XT):** R$ 2.758,98  
-- **Preço parcelado (sem a RX 5700XT):** R$ 3.234,00  
+- **Preço à vista :** R$ 3.758,98  
+- **Preço parcelado :** R$ 4.234,00  
 
 ---
 
