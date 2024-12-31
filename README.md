@@ -7,7 +7,7 @@
 | SSD Mancer Reaper RF 240GB SATA III              | [Clique aqui](https://www.pichau.com.br/ssd-mancer-reaper-rf-240gb-sata-iii-6gb-s-leitura-530-mb-s-gravacao-500-mb-s-mcr-rprf-240) | 111,00                  | 131,00                   | Pichau    |
 | Water Cooler Rise Mode Gamer Black RGB 240mm     | [Clique aqui](https://www.kabum.com.br/produto/130043/water-cooler-rise-mode-gamer-black-rgb-240mm-amd-intel-preto-rm-wcb-02-rgb) | 180,00                  | 211,00                   | Kabum     |
 | Fonte MSI MAG A650BN 650W 80 Plus Bronze         | [Clique aqui](https://www.kabum.com.br/produto/369658/fonte-msi-mag-a650bn-650w-80-plus-bronze-pfc-ativo-com-cabo-preto-306-7zp2b22-ce0) | 299,00                  | 340,00                   | Kabum     |
-| Placa de Vídeo RX 5700XT                         | Não disponível                                                                                                             | 1.000,00                | Não disponível           | N/A       |
+| Placa de Vídeo RX 5700XT                         | Comprar em goiania                                                                                                             | 1.000,00                | não parcela           | N/A       |
 
 ---
 
